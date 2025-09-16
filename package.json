@@ -2,7 +2,7 @@
   "name": "youtube_backend",
   "version": "1.0.0",
   "description": "A Node.js REST API for managing Youtube subscribers using MongoDB",
-  "main": "index.js",
+  "main": "src/index.js",
   "type": "module",
   "scripts": {
   "start": "node src/index.js",
