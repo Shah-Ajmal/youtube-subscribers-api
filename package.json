@@ -1,0 +1,27 @@
+{
+  "name": "youtube_backend",
+  "version": "1.0.0",
+  "description": "A Node.js REST API for managing Youtube subscribers using MongoDB",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "Mongodb",
+    "Express"
+  ],
+  "author": "Shah Mohammad Ajmal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
